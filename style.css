@@ -1,9 +1,18 @@
-navbar {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+.navbox {
+    margin: 0px;
+    padding 0px;
+    list-style: none;
+    display: inline-block;
 }
 
-logo {
-    <div style="display:flex;justify-content:center;align-items:center;"><div></div></div>
-}
+.about {}
+
+.store {}
+
+.images {}
+
+.gmail {}
+
+.view-more {}
+
+.signin {}
