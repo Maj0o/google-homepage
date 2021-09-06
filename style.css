@@ -1,18 +1,32 @@
-.navbox {
-    margin: 0px;
-    padding 0px;
-    list-style: none;
-    display: inline-block;
+.nav {
+    max-width: 100%;
+    list-style-type: none;
+    text-align: center;
+    margin: auto;
+    padding: 0;
 }
 
-.about {}
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
 
-.store {}
+.logo {
+    padding-top: 150px;
+    padding-left: 650px;
+}
 
-.images {}
+.search {
 
-.gmail {}
+    padding-left: 575px;
+}
 
-.view-more {}
+input[type=text] {
+    border-radius: 10px;
+}
 
-.signin {}
+.buttons {
+    padding-left: 700px;
+
+}
