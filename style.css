@@ -1,15 +1,22 @@
-.nav {
-    max-width: 100%;
-    list-style-type: none;
-    text-align: center;
-    margin: auto;
-    padding: 0;
-}
-
-.nav li {
-    display: inline-block;
+.nav-left li,
+.nav-right li {
+    display: inline;
     font-size: 20px;
     padding: 20px;
+    float: left;
+    list-style-type: none;
+}
+
+.nav-right {
+    display: inline;
+    float: right;
+    list-style-type: none;
+    margin: 0;
+
+    .signin {}
+
+
+
 }
 
 .logo {
@@ -32,4 +39,9 @@ input[type=text] {
 .buttons {
     padding-top: 15px;
     padding-left: 700px;
+}
+
+.footer-left li,
+.footer-right li {
+    display: inline;
 }
