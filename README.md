@@ -1,3 +1,3 @@
 # google-homepage
 
-Emulating a copy of the google webpage
+Building a copy of the google webpage
