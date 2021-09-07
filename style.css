@@ -1,16 +1,29 @@
-.nav-left li,
-.nav-right li {
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-left li {
 
     display: inline;
-    font-size: 15px;
-    padding-right: 15px;
+    position: relative;
+    font-size: 14px;
+    padding: 10px;
     float: left;
     list-style-type: none;
+}
+
+.nav-right li {
+    display: inline;
+    font-size: 14px;
+    list-style-type: none;
+    padding: 10px;
+
 }
 
 a {
     text-decoration: none;
     color: black;
+
 }
 
 .nav-right {
@@ -42,37 +55,39 @@ a {
     padding-top: 10px;
 }
 
+
+.searchbutton,
+.luckybutton {
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+    border-radius: 2px;
+}
+
 input[type=text] {
     border-radius: 10px;
     height: 30px;
 
 }
 
+
 .buttons {
     padding-top: 15px;
     padding-left: 700px;
 }
 
-.searchbutton,
-.luckybutton {
-    background-color: lightgray;
-    border-radius: 5px;
-    padding: 10px;
-}
-
-
-
 .footer-left {
     float: left;
-    padding-top: 555px;
+    padding-top: 560px;
+    font-size: 14px;
 
 
 }
+
 
 .footer-right {
     float: right;
-    padding-top: 555px;
-
+    padding-top: 560px;
+    font-size: 14px;
 }
 
 .footer-left li,
