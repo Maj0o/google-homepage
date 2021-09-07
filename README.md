@@ -1,3 +1,3 @@
 # google-homepage
 
-Trying to recreate the google webpage
+First attempt at blindly building the google webpage
