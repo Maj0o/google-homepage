@@ -1,3 +1,6 @@
 # google-homepage
 
-Building a copy of the google webpage
+* Learned how to work with floats
+* Creating a simple layout
+* Making a footer
+
