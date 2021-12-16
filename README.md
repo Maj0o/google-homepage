@@ -8,3 +8,5 @@ I tried to recreate the initial UI of the google homepage to get used to HTML/CS
 - Styling buttons;
 - Working with floats.
 
+Page is available on: https://maj0o.github.io/google-homepage/
+
